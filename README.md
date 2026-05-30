@@ -4,7 +4,8 @@ Kage Deck is a Naruto collectible card game pack opening simulator where you can
 
 ## Site Sections
 
-* [Main Site](https://kagedeck.com/) - Open packs, build your collection, and rise through the ranks
+* [Main Site](https://kagedeck.com/) - Make an account, build your collection, and rise through the ranks
+* [Open Packs](https://kagedeck.com/packs) - Open packs from available sets
 * [Collection](https://kagedeck.com/collection) - View and manage your card collection
 * [Deck Builder](https://kagedeck.com/decks) - Build and save custom decks
 * [Community](https://kagedeck.com/community) - Leaderboards, challenges, and friends
