@@ -11,17 +11,10 @@ Kage Deck is a Naruto collectible card game pack opening simulator where you can
 * [Community](https://kagedeck.com/community) - Leaderboards, challenges, and friends
 
 ## Reporting Bugs
-
-Please [open an issue](../../issues/new) and include:
-- What you were doing when the bug occurred
-- What you expected to happen
-- What actually happened
-- Screenshots if possible
-- Browser and device info
+[Report a bug](../../issues/new?template=bug_report.md)
 
 ## Feature Requests
-
-Have an idea to make Kage Deck better? [Open an issue](../../issues/new) and tell us about it!
+[Request a feature](../../issues/new?template=feature_request.md)
 
 ## Contact
 
