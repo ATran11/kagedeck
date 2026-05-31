@@ -19,7 +19,6 @@
 </p>
 
 <p align="center">
-  <a href="https://kagedeck.com">Play Now</a> •
   <a href="../../issues/new?template=bug_report.md">Report Bug</a> •
   <a href="../../issues/new?template=feature_request.md">Request Feature</a>
 </p>
