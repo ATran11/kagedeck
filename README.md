@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Express-4-000000?logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Cypress-E2E-04C38E?logo=cypress&logoColor=white" alt="Cypress">
+  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/DigitalOcean-Deployed-0080FF?logo=digitalocean&logoColor=white" alt="DigitalOcean">
 </p>
 
 <p align="center">
@@ -34,12 +36,3 @@
 | [Deck Builder](https://kagedeck.com/decks) | Build and save custom decks |
 | [Community](https://kagedeck.com/community) | Leaderboards, challenges, and friends |
 
-
-## Built With
-
-- Vue 3 + TypeScript
-- Vuetify
-- Express + Prisma + PostgreSQL
-- Jenkins CI/CD
-- Cypress E2E Testing
-- Deployed on DigitalOcean
