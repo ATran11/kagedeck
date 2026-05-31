@@ -33,3 +33,13 @@
 | [Collection](https://kagedeck.com/collection) | View and manage your card collection |
 | [Deck Builder](https://kagedeck.com/decks) | Build and save custom decks |
 | [Community](https://kagedeck.com/community) | Leaderboards, challenges, and friends |
+
+
+## Built With
+
+- Vue 3 + TypeScript
+- Vuetify
+- Express + Prisma + PostgreSQL
+- Jenkins CI/CD
+- Cypress E2E Testing
+- Deployed on DigitalOcean
