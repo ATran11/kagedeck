@@ -5,6 +5,14 @@
 <h1 align="center">Kage Deck</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Vue-3-4FC08D?logo=vuedotjs&logoColor=white" alt="Vue 3">
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Express-4-000000?logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Cypress-E2E-04C38E?logo=cypress&logoColor=white" alt="Cypress">
+</p>
+
+<p align="center">
   A Naruto CCG pack opening simulator where you can collect cards, build decks, and compete on the leaderboard.
 </p>
 
@@ -25,12 +33,3 @@
 | [Collection](https://kagedeck.com/collection) | View and manage your card collection |
 | [Deck Builder](https://kagedeck.com/decks) | Build and save custom decks |
 | [Community](https://kagedeck.com/community) | Leaderboards, challenges, and friends |
-
-## Built With
-
-- Vue 3 + TypeScript
-- Vuetify
-- Express + Prisma + PostgreSQL
-- Jenkins CI/CD
-- Cypress Testing
-- Deployed on DigitalOcean
