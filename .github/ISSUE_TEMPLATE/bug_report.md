@@ -8,10 +8,8 @@ labels: bug
 **What were you doing?**
 A clear description of what you were doing when the bug occurred.
 
-**What did you expect to happen?**
 
-
-**What actually happened?**
+**What happened?**
 
 
 **Screenshots**
