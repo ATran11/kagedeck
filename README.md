@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Express-4-000000?logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Cypress-E2E-04C38E?logo=cypress&logoColor=white" alt="Cypress">
-  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins&logoColor=white" alt="Jenkins">
+  <a href="./docs/CI-CD.md"><img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins&logoColor=white" alt="Jenkins"></a>
   <img src="https://img.shields.io/badge/DigitalOcean-Deployed-0080FF?logo=digitalocean&logoColor=white" alt="DigitalOcean">
 </p>
 
@@ -35,3 +35,5 @@
 | [Deck Builder](https://kagedeck.com/decks) | Build and save custom decks |
 | [Community](https://kagedeck.com/community) | Leaderboards, challenges, and friends |
 
+---
+<sub>Built with a Jenkins CI/CD pipeline running automated Cypress E2E tests. [See the pipeline →](./docs/CI-CD.md)</sub>
