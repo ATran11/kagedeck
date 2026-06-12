@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Express-4-000000?logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Cypress-E2E-04C38E?logo=cypress&logoColor=white" alt="Cypress">
+  <a href="./docs/images/cypress-summary.png"><img src="https://img.shields.io/badge/Cypress-E2E-04C38E?logo=cypress&logoColor=white" alt="Cypress"></a>
   <a href="./docs/CI-CD.md"><img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins&logoColor=white" alt="Jenkins"></a>
   <img src="https://img.shields.io/badge/DigitalOcean-Deployed-0080FF?logo=digitalocean&logoColor=white" alt="DigitalOcean">
 </p>
